@@ -1,1 +1,12 @@
-
+{
+    "id": 120,
+    "name": "test layout",
+    "author": "Fartman",
+    "creators": ["Fartman"],
+    "verifier": "fartman",
+    "verification": "https://youtu.be/wRTEyH-7XIY?si=-zx3pf69SpaZuedu",
+    "percentToQualify": 75,
+    "password": "Free to Copy",
+    "records": [
+    ]
+}

@@ -1,1 +1,12 @@
-
+{
+    "id": 123,
+    "name": "intergalactic",
+    "author": "Fartman",
+    "creators": ["Fartman"],
+    "verifier": "fartman",
+    "verification": "https://youtu.be/dLHsjGqOVTo?si=jsJrLlpbBBbQl3A_",
+    "percentToQualify": 77,
+    "password": "Free to Copy",
+    "records": [
+    ]
+}

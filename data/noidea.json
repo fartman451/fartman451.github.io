@@ -1,1 +1,12 @@
-
+{
+    "id": 125,
+    "name": "no idea",
+    "author": "Fartman",
+    "creators": ["Fartman"],
+    "verifier": "fartman",
+    "verification": "https://youtu.be/p2lTAZ8DKAg?si=cWawVtwHmqoFOgpe",
+    "percentToQualify": 86,
+    "password": "Free to Copy",
+    "records": [
+    ]
+}
